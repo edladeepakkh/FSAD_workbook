@@ -1,0 +1,5 @@
+package com.invetory.entity;
+
+public class Product {
+
+}
